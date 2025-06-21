@@ -1,0 +1,7 @@
+[workspace]
+resolver = "3"
+members = [
+    "crates/aurabase_core",
+    "crates/aurabased",
+    "crates/aurabase_cli",
+]
